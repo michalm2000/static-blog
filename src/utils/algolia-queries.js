@@ -5,7 +5,7 @@ const indexName = `Pages`
 
 const pageQuery = `{
   pages: allMarkdownRemark(
-    edges {
+   edges {
       node {
         id
         frontmatter {

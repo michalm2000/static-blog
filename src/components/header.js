@@ -1,5 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Search from "../components/search"
+const searchIndices = [{ name: `Pages`, title: `Pages` }]
 const Header = () => (
  <div
  style={{
@@ -27,7 +29,9 @@ const Header = () => (
  >
  Static Blog by Gatsby JS
  </Link>
+
  </h1>
+ <Search indices={searchIndices} />
  </div>
  </div>
 )
