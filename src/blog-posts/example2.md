@@ -4,16 +4,104 @@ date: "2022-03-04"
 author: "Marillion"
 img: "ahbid.jpg"
 ---
-## What is Markdown
-Markdown is a lightweight markup language that you can use to add formatting elem
-ents to plaintext text documents. Created by John Gruber in 2004, Markdown is now
- one of the world’s most popular markup languages.
-Using Markdown is different than using a WYSIWYG editor. In an application like M
-icrosoft Word, you click buttons to format words and phrases, and the changes are
- visible immediately. Markdown isn’t like that. When you create a Markdownformatted file, you add Markdown syntax to the text to indicate which words and p
-hrases should look different.
-### Why Use Markdown?
-You might be wondering why people use Markdown instead of a WYSIWYG editor. Why w
-rite with Markdown when you can press buttons in an interface to format your text
-? As it turns out, there are a couple different reasons why people use Markdown i
-nstead of WYSIWYG editors. 
+# "Be Hard On Yourself"
+
+# [I - "The Tear In The Big Picture"]
+
+Big ball of rocks and water 
+Spinning round in space 
+Blue green and made of magic 
+Miracles on miracles on miracles with miracles inside 
+Why would you kill it?
+
+Be hard on yourself
+You've been spoilt for years
+Be hard on yourself
+You'll be glad you did
+You'll be glad you did
+
+Something to pull the sheep across the field
+Bag of grass and straw
+How can it keep growing?
+
+Be hard on yourself
+You've been spoilt for years
+Be hard on yourself
+You'll be glad you did
+You'll be glad you did
+
+Run towards the things that scare ya
+I dare ya
+There's a tear in the big picture
+Can't burn it
+Got to fix it
+Heard you say life's what you settle for
+Nobody told you
+Less can be more
+
+Strap in
+Get ready
+Foot down
+Push the button
+Blow it all up
+And be hard on yourself
+
+Strap in
+Get ready
+Foot down
+Push the button
+Blow it all up
+And be hard on yourself
+
+# [II - "Lust For Luxury"]
+
+Don't talk to me of need
+Don't talk to me of want
+Don't talk to me of dreams
+The world has seen enough impatient bags of blood
+Don't talk to me of speed
+Acceleration never did you any good
+
+The monkey wants a new toy
+And that's all that it knows
+Something to pull the sheep across the field
+
+The only way forward is to fall over
+Or you can learn to be hard on yourself
+
+The monkey wants a new toy
+And that's all that it knows
+The monkey wants a new toy
+And that's all that it knows
+
+Cause of death: Lust for luxury
+Cause of death: Lust for luxury
+Cause of death: Consumption
+
+# [III - "You Can Learn"]
+
+The only way forward is to fall over
+Or you can learn to be
+Or you can learn to be
+Hard on yourself
+
+You can do better
+You can do better
+But do it now
+
+We haven't got long
+We haven't got long
+To the end of the song
+
+Be hard on yourself
+
+Strap in
+Get ready
+Foot down
+Push the button
+Blow it all up
+Blow it all up
+
+Paint a picture, sing a song, plant some flowers in the park
+Get out and make it better
+You've got an hour before it's dark..

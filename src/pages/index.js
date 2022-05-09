@@ -3,12 +3,14 @@ import Link from 'gatsby-link'
 import './index.css'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
+
 const IndexPage = ({data}) => {
  console.log(data)
 
 
  return(
    <Layout>
+   
  <div>
  {data.allMarkdownRemark.edges.map(({node}) => (
  <div key={node.id} className="article-box">
