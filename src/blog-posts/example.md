@@ -17,3 +17,5 @@ You might be wondering why people use Markdown instead of a WYSIWYG editor. Why 
 rite with Markdown when you can press buttons in an interface to format your text
 ? As it turns out, there are a couple different reasons why people use Markdown i
 nstead of WYSIWYG editors. 
+![Image](../images/ahbid.jpg)
+`youtube: https://www.youtube.com/watch?v=2Xc9gXyf2G4`
